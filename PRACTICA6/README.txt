@@ -14,3 +14,4 @@ Ejecucion
 ¨¨¨¨¨¨¨¨¨
 1) Desde la carpeta build ejecutar : bash$: cmake .. && make
 2) bash$: ./P6
+FIN
